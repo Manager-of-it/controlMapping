@@ -4,7 +4,7 @@
 Identify Cyber Resilicy Control Language from an Input Data Set (typically a file)
 
 ## Description
-Utilize spaCy with prompts from NIST SP 800-160 Vol 2 Rev 1 to select controls from NIST 800-53.
+Utilize spaCy with prompts to extract map controls between frameworks, for example, use NIST SP 800-160 Vol 2 Rev 1 to select controls from NIST 800-53.
 
 ### Prerequisites
 spaCy
